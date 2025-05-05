@@ -2,7 +2,7 @@
 
 🔴 [Youtube Quizomatic Official](https://www.youtube.com/channel/UC3jojKo62o781-lvA7i7vIQ)
 
-Need high-quality quiz videos in bulk? Our tool transforms your input data into engaging videos within minutes—saving you time and effort. Whether for education, social media, or entertainment, we streamline the process so you can focus on scaling your content. Just upload your input sheet, and boom—your quiz videos are ready! No manual work, no stress.
+Need high-quality quiz videos in bulk? Quizomatic will transforms your input data into engaging videos within minutes—saving you time and effort. Whether for education, social media, or entertainment, we streamline the process so you can focus on scaling your content. Just upload your input sheet, and boom, your quiz videos are ready! No manual work, no stress. It uses React Remotion framework & Python to generate videos.
 
 ### Input Sheet Template:
 
